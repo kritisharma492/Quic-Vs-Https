@@ -1,0 +1,43 @@
+HTTP/1.1 200 OK
+Date: Thu, 06 Dec 2018 10:00:32 GMT
+P3P: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Last-Modified: Mon, 17 Sep 2018 22:33:38 GMT
+Accept-Ranges: bytes
+Content-Length: 753
+Vary: Accept-Encoding
+Cache-Control: private
+X-Content-Type-Options: NOSNIFF
+Content-Type: text/plain; charset=utf-8
+Age: 0
+Via: http/1.1 media-router-omega103.prod.media.bf1.yahoo.com (ApacheTrafficServer [cMsSf ]), http/1.1 media-router-fp1002.prod.media.bf1.yahoo.com (ApacheTrafficServer [cMsSf ])
+Server: ATS
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; report="https://csp.yahoo.com/beacon/csp?src=fp-hpkp-www"
+Referrer-Policy: no-referrer-when-downgrade
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy-Report-Only: style-src https://*.btrll.com https://*.oath.com https://*.yimg.com https://*.yahoo.com 'self' 'unsafe-inline' data: blob:; script-src https://*.btrll.com https://*.oath.com https://*.yahoo.com https://*.yimg.com 'self' 'unsafe-inline' 'unsafe-eval' https://platform.twitter.com https://*.btrll.com data: blob:; frame-ancestors https://*.techcrunch.com https://*.huffingtonpost.com https://*.aol.com https://*.yahoo.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=frontpage&region=US&lang=en-US&device=desktop&yrid=c1gnqnte0hsq0&partner=;
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=frontpage&region=US&lang=en-US&device=desktop&yrid=c1gnqnte0hsq0&partner=;
+Expect-CT: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+
+User-agent: *
+Disallow: /p/
+Disallow: /r/
+Disallow: /bin/
+Disallow: /includes/
+Disallow: /blank.html
+Disallow: /_td_api
+Disallow: /_tdpp_api
+Disallow: /_remote
+Disallow: /_multiremote
+Disallow: /_tdhl_api
+Disallow: /digest
+Disallow: /fpjs
+Disallow: /myjs
+
+Sitemap: https://www.yahoo.com/gma/sitemaps/gma-sitemap_index_US_en-US.xml.gz
+Sitemap: https://www.yahoo.com/entertainment/sitemaps/entertainment-sitemap_index_US_en-US.xml.gz
+Sitemap: https://www.yahoo.com/lifestyle/sitemaps/lifestyles-sitemap_index_US_en-US.xml.gz
+Sitemap: https://www.yahoo.com/news/weather/sitemap.xml
+Sitemap: https://www.yahoo.com/news/sitemaps/news-sitemap_index_US_en-US.xml.gz
+Sitemap: https://www.yahoo.com/news/topics/sitemaps/topics-sitemap_navigation_US_en-US.xml.gz

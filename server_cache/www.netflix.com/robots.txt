@@ -1,0 +1,172 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Date: Wed, 05 Dec 2018 06:55:01 GMT
+req_id: 2539be4f-5127-43e8-b890-0904a0f839d9-150584400
+Server: shakti-prod i-04ba1a040eb9dafb1
+Set-Cookie: memclid=b37ef690-6ab0-4160-8d14-99a3ee68adb0; Max-Age=31536000; Expires=Thu, 5 Dec 2019 06:55:01 GMT; Path=/; Domain=.netflix.com
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 i-09986107d8e439857 (us-east-1)
+X-Content-Type-Options: nosniff
+X-Netflix.nfstatus: 1_1
+X-Netflix.proxy.execution-time: 8
+X-Originating-URL: https://www.netflix.com/robots.txt
+X-Xss-Protection: 1; mode=block; report=https://www.netflix.com/ichnaea/log/freeform/xssreport
+Content-Length: 3173
+Connection: keep-alive
+
+User-agent: *
+Disallow: /
+
+
+User-agent: googlebot
+User-agent: Googlebot-Video
+User-agent: bingbot
+User-agent: Baiduspider
+User-agent: Baiduspider-mobile
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: NaverBot
+User-agent: Yeti
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: YandexMobileBot
+User-agent: YandexVideo
+User-agent: YandexWebmaster
+User-agent: YandexSitelinks
+Allow: /
+Disallow: /accountstatus
+Disallow: /aui/inbound
+Disallow: /authenticate
+Disallow: /autologin
+Disallow: /companies
+Disallow: /dvdterms
+Disallow: /emailunsubscribe
+Disallow: /error
+Disallow: /eula
+Disallow: /geooverride
+Disallow: /help
+Disallow: /imagelibrary
+Disallow: /learnmorelayer
+Disallow: /learnmorelayertv
+Disallow: /login
+Disallow: /loginhelp
+Disallow: /loginhelp/lookup
+Disallow: /loginhelpsucess
+Disallow: /logout
+Disallow: /mcd
+Disallow: /modernizr
+Disallow: /notamember
+Disallow: /notfound
+Disallow: /notices
+Disallow: /nrdapp
+Disallow: /optout
+Disallow: /overviewblockseeother
+Disallow: /popup/codewhatisthis
+Disallow: /popupdetails
+Disallow: /popupprivacypolicy
+Disallow: /privacypolicychanges
+Disallow: /registration
+Disallow: /rememberme
+Disallow: /signout
+Disallow: /signurl
+Disallow: /subscriptioncancel
+Disallow: /tastesurvey
+Disallow: /termsofusechanges
+Disallow: /upcomingevents
+Disallow: /whysecure
+
+Disallow: /arabic
+Disallow: /chinese
+Disallow: /korean
+Disallow: /Arabic
+Disallow: /Chinese
+Disallow: /Korean
+
+Disallow: /airtel
+Disallow: /anan
+Disallow: /bouyguestelecom
+Disallow: /britishairways
+Disallow: /brutus
+Disallow: /comhem
+Disallow: /courts
+Disallow: /csl
+Disallow: /elisa
+Disallow: /entertain
+Disallow: /FireTV
+Disallow: /firetv
+Disallow: /freemonth
+Disallow: /kpn
+Disallow: /lg
+Disallow: /maxis
+Disallow: /Maxis
+Disallow: /meo
+Disallow: /Meo
+Disallow: /orangefrance
+Disallow: /Panasonic
+Disallow: /panasonic
+Disallow: /playstation
+Disallow: /proximus
+Disallow: /qantas
+Disallow: /samsung
+Disallow: /Sony
+Disallow: /sony
+Disallow: /talktalk
+Disallow: /tdc
+Disallow: /telenor
+Disallow: /telfort
+Disallow: /tim
+Disallow: /virginaustralia
+Disallow: /vodafone
+Disallow: /vodafonedemobilelaunch
+Disallow: /xboxone
+Disallow: /xfinity
+Disallow: /xs4all
+Disallow: /ziggo
+
+Disallow: /search
+Disallow: /search/*
+Disallow: /browse
+Disallow: /browse/*
+Allow: /browse/genre/*
+Disallow: /yourAccount
+Disallow: /youraccount
+Disallow: /accountaccess
+Disallow: /BillingActivity
+Disallow: /CancelPlan
+Disallow: /ChangePlan
+Disallow: /activate
+Disallow: /viewingactivity
+Disallow: /ManageDevices
+Disallow: /EditProfiles
+Disallow: /Activate
+Disallow: /ManageProfiles
+Disallow: /ProfilesGate
+Disallow: /changeplan
+Disallow: /LanguagePreferences
+Disallow: /MoviesYouveSeen
+Disallow: /phonenumber
+Disallow: /accountaccess
+Disallow: /MyListOrder
+Disallow: /HdToggle
+Disallow: /deviceManagement
+Disallow: /profiles
+Disallow: /profiles/*
+Disallow: /DoNotTest
+Disallow: /payment
+Disallow: /PopupDetails
+Disallow: /clearcookies
+
+User-agent: AdsBot-Google
+User-agent: Twitterbot
+User-agent: Adidxbot
+Allow: /
+
+
+User-agent: Yahoo Pipes 1.0
+User-agent: Facebot
+User-agent: externalfacebookhit
+Disallow: /
+
+
+Sitemap: https://www.netflix.com/api/sitemap-v2/index
+

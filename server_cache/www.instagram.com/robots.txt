@@ -1,0 +1,101 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain; charset=utf-8
+Last-Modified: Fri, 30 Nov 2018 00:00:09 GMT
+Vary: Accept-Language, Cookie, Accept-Encoding
+Content-Language: en
+Date: Fri, 30 Nov 2018 00:50:36 GMT
+Strict-Transport-Security: max-age=60
+X-Frame-Options: SAMEORIGIN
+content-security-policy: report-uri https://www.instagram.com/security/csp_report/; default-src 'self' https://www.instagram.com; img-src https: data: blob:; font-src https: data:; media-src 'self' blob: https://www.instagram.com https://*.cdninstagram.com https://*.fbcdn.net; manifest-src 'self' https://www.instagram.com; script-src 'self' https://instagram.com https://www.instagram.com https://*.www.instagram.com https://*.cdninstagram.com wss://www.instagram.com https://*.facebook.com https://*.fbcdn.net https://*.facebook.net 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' https://*.www.instagram.com https://www.instagram.com 'unsafe-inline'; connect-src 'self' https://instagram.com https://www.instagram.com https://*.www.instagram.com https://graph.instagram.com https://*.graph.instagram.com https://*.cdninstagram.com https://api.instagram.com wss://www.instagram.com wss://edge-chat.instagram.com https://*.facebook.com https://*.fbcdn.net https://*.facebook.net chrome-extension://boadgeojelhgndaghljhdicfkmllpafd; worker-src 'self' https://www.instagram.com; frame-src 'self' https://instagram.com https://www.instagram.com https://staticxx.facebook.com https://www.facebook.com https://web.facebook.com https://connect.facebook.net https://m.facebook.com; object-src 'none'; upgrade-insecure-requests
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+x-fb-config-version-slb-regional: 417
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+User-agent: Applebot
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: baiduspider
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: Bingbot
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: DuckDuckBot
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: Googlebot
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: ia_archiver
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: msnbot
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: Naverbot
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: seznambot
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: Slurp
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: teoma
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: Twitterbot
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: Yandex
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: Yeti
+Disallow: /api/
+Disallow: /graphql/query/
+Disallow: /publicapi/
+Disallow: /query/
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,163 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Content-Length: 2754
+Content-Type: text/plain
+Date: Mon, 03 Dec 2018 04:06:05 GMT
+Etag: "ac2-5563e2ac3f640"
+Last-Modified: Tue, 08 Aug 2017 13:44:49 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=8C28B81C2B51C85C125AA02A814E776B:FG=1; expires=Tue, 03-Dec-19 04:06:05 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Vary: Accept-Encoding,User-Agent
+
+User-agent: Baiduspider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: Googlebot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: MSNBot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: Baiduspider-image
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: YoudaoBot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: Sogou web spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: Sogou inst spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: Sogou spider2
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: Sogou blog
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: Sogou News Spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: Sogou Orion spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: ChinasoSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: Sosospider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+
+User-agent: yisouspider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: EasouSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+Disallow: /home/news/data/
+
+User-agent: *
+Disallow: /

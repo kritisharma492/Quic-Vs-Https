@@ -1,0 +1,63 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain; charset=utf-8
+x-servedByHost: ::ffff:172.17.38.32
+access-control-allow-origin: *
+cache-control: max-age=3600
+content-security-policy: default-src 'self' blob: https://*.cnn.com:* http://*.cnn.com:* *.cnn.io:* *.cnn.net:* *.turner.com:* *.turner.io:* *.ugdturner.com:* courageousstudio.com *.vgtf.net:*; script-src 'unsafe-eval' 'unsafe-inline' 'self' *; style-src 'unsafe-inline' 'self' blob: *; child-src 'self' blob: *; frame-src 'self' *; object-src 'self' *; img-src 'self' data: blob: *; media-src 'self' data: blob: *; font-src 'self' data: *; connect-src 'self' *; frame-ancestors 'self' https://*.cnn.com:* http://*.cnn.com https://*.cnn.io:* http://*.cnn.io:* *.turner.com:* courageousstudio.com;
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+Via: 1.1 varnish
+Content-Length: 1019
+Accept-Ranges: bytes
+Date: Thu, 06 Dec 2018 09:29:52 GMT
+Via: 1.1 varnish
+Age: 1926
+Connection: keep-alive
+Set-Cookie: countryCode=US; Domain=.cnn.com; Path=/
+Set-Cookie: geoData=stony brook|NY|11794|US|NA; Domain=.cnn.com; Path=/
+X-Served-By: cache-iad2127-IAD, cache-ewr18131-EWR
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 3
+X-Timer: S1544088592.001087,VS0,VE0
+Vary: Accept-Encoding
+
+Sitemap: https://www.cnn.com/sitemaps/cnn/index.xml
+Sitemap: https://www.cnn.com/sitemaps/cnn/news.xml
+Sitemap: https://www.cnn.com/sitemaps/sitemap-section.xml
+Sitemap: https://www.cnn.com/sitemaps/sitemap-interactive.xml
+Sitemap: https://www.cnn.com/ampstories/sitemap.xml
+Sitemap: https://edition.cnn.com/sitemaps/news.xml
+User-agent: *
+Allow: /partners/ipad/live-video.json
+Disallow: /ads/
+Disallow: /aol/
+Disallow: /audio/
+Disallow: /beta/
+Disallow: /browsers/
+Disallow: /cl/
+Disallow: /cnews/
+Disallow: /cnn_adspaces
+Disallow: /cnnbeta/
+Disallow: /cnnintl_adspaces
+Disallow: /development
+Disallow: /editionssi
+Disallow: /help/cnnx.html
+Disallow: /NewsPass
+Disallow: /NOKIA
+Disallow: /partners/
+Disallow: /pipeline/
+Disallow: /pointroll/
+Disallow: /POLLSERVER/
+Disallow: /pr/
+Disallow: /privacy
+Disallow: /PV/
+Disallow: /Quickcast/
+Disallow: /quickcast/
+Disallow: /QUICKNEWS/
+Disallow: /search/
+Disallow: /terms
+Disallow: /test/
+Disallow: /virtual/
+Disallow: /WEB-INF/
+Disallow: /web.projects/
+Disallow: /webview/

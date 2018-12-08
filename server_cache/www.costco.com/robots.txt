@@ -1,0 +1,122 @@
+HTTP/1.1 200 OK
+Last-Modified: Wed, 08 Aug 2018 22:08:59 GMT
+ETag: "f31e-d75-572f3c1e234c0"
+Content-Type: text/plain
+Cache-Control: max-age=3600
+Expires: Thu, 06 Dec 2018 06:02:39 GMT
+Date: Thu, 06 Dec 2018 05:02:39 GMT
+Content-Length: 3445
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+
+# robots.txt for http://www.costco.com
+
+User-agent: *
+# Disallow: /*AboutUsView*
+# Disallow: /*CTOProductChooserView*
+# Disallow: /*CTOProductConfigurationView*
+# Disallow: /*CTOProductSummaryView*
+# Disallow: /*CashCardBalanceDisplayView*
+# Disallow: /*CashCardBalanceInquiry*
+# Disallow: /*CatalogAttachmentView*
+# Disallow: /*CatalogSearch*
+# Disallow: /*CatalogSearchInkJsonView*
+# Disallow: /*CatalogSearchResultView*
+# Disallow: /*CategoryDisplay*
+# Disallow: /*CategoryDisplayView*
+# Disallow: /*CategoryOnlyResultsDisplayView*
+# Disallow: /*ClickInfo*
+# Disallow: /*CompareProductsDisplay*
+# Disallow: /*ContactUsSendMessageView*
+# Disallow: /*ContactUsView*
+# Disallow: /*CostcoCashCardProcess*
+# Disallow: /*CostcoWarehouseListDisplayView*
+# Disallow: /*CreateStoreView*
+# Disallow: /*DefaultSitemapView*
+# Disallow: /*FaqView*
+# Disallow: /*GetCatalogEntryDetailsByID*
+# Disallow: /*GetCatalogEntryInventoryData*
+# Disallow: /*HelpContactUsView*
+# Disallow: /*NavigationView*
+# Disallow: /*OrderByItemsDisplayView*
+# Disallow: /*PrivacyView*
+# Disallow: /*ProductDisplay*
+# Disallow: /*ProductDisplayErrorView*
+# Disallow: /*ProductDisplayView*
+# Disallow: /*SharedWishListView*
+# Disallow: /*SiteMapView*
+# Disallow: /*StoreCatalogDisplay*
+# Disallow: /*StoreCatalogDisplayView*
+# Disallow: /*StoreView*
+# Disallow: /*SubCatListDisplayView*
+# Disallow: /*TopCategoriesDisplay*
+# Disallow: /*TopCategoriesDisplayView*
+# Disallow: /*WarehouseLocatorBrowseView*
+# Disallow: /*WarehouseLocatorDetailsView*
+# Disallow: /*WarehouseLocatorDirectionsView*
+# Disallow: /*WarehouseLocatorJSView*
+# Disallow: /*WarehouseLocatorView*
+# Disallow: /*WarehouseTiresLocatorView*
+# Disallow: /*WelcomeView*
+# Disallow: /*WishListDetailView*
+# Disallow: /*WishListResultDisplayView*
+# Disallow: /*dynamicJs*
+# Disallow: /*dynamic_css*
+
+# Account Management
+Disallow: /*AddressBookDisplayView*
+Disallow: /*ChangePassword*
+Disallow: /*CommunicationPreferenceView*
+Disallow: /*NonAjaxAddressBook*
+Disallow: /*OrderStatusCmd*
+Disallow: /*PaymentMethodDisplayView*
+Disallow: /*UserAccountView*
+Disallow: /*UserRegistrationErrorView*
+
+# Checkout Flow
+Disallow: /*BillingPaymentDisplayView*
+Disallow: /*CheckoutReviewDisplayView*
+Disallow: /*CostcoOrderReview*
+Disallow: /*MultipleShipmentOrderSummaryView*
+Disallow: /*OrderBillingView*
+Disallow: /*OrderConfirmationView*
+
+# Error Pages
+Disallow: /*AccessControlErrorView*
+Disallow: /*AuthenticationPolicyErrorView*
+Disallow: /*CrossSiteRequestForgeryErrorView*
+Disallow: /*GenericApplicationError*
+Disallow: /*GenericError*
+Disallow: /*GenericSystemError*
+Disallow: /*InvalidInputErrorView*
+Disallow: /*InvalidProductView*
+Disallow: /*PasswordReEnterErrorView*
+Disallow: /*PreviewExclusionView*
+Disallow: /*ProductNotFoundView*
+Disallow: /*ProhibitedCharacterErrorView*
+
+# Sort and Filtering Query Parameters
+#Disallow: /*?*refine=*
+Disallow: /*?*pageSize=*
+Disallow: /*?*sortBy=*
+
+# Logon/Logoff Flow
+Disallow: /*LogonForm*
+Disallow: /*ResetPassword*
+
+# Order History
+Disallow: /*ListOrdersDisplayTableView*
+Disallow: /*ListOrdersDisplayView*
+Disallow: /*OrderStatusDetailsView*
+Disallow: /*OrderStatusSummaryFSAView*
+Disallow: /*OrderStatusSummaryView*
+Disallow: /*OrderStatusTableDetailsDisplay*
+
+# Legacy References
+Disallow: /Browse/
+Disallow: /Common/
+Disallow: /Warehouse/
+Disallow: /CatalogSearch*
+
+Sitemap: https://www.costco.com/sitemap_index.xml
+Sitemap: https://www.costco.com/sitemap1_index.xml

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 05 Dec 2018 06:54:29 GMT
+Content-Type: text/plain
+Content-Length: 23
+Last-Modified: Fri, 11 Jul 2014 04:57:21 GMT
+Connection: close
+ETag: "53bf6eb1-17"
+Accept-Ranges: bytes
+
+User-agent: *
+Allow: /

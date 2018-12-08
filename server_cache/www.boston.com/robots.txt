@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Server: Apache
+Link: <https://www.boston.com/wp-json/>; rel="https://api.w.org/"
+Content-Type: text/plain; charset=utf-8
+Content-Security-Policy: upgrade-insecure-requests
+Fastly-SSL: 1
+X-TTL: default
+Content-Length: 67
+Accept-Ranges: bytes
+Date: Thu, 06 Dec 2018 09:29:10 GMT
+Via: 1.1 varnish
+Age: 34687
+Connection: keep-alive
+X-Served-By: cache-jfk8130-JFK
+X-Cache: HIT
+X-Cache-Hits: 2
+X-Timer: S1544088550.156322,VS0,VE0
+Vary: Origin, Accept-Encoding,Fastly-SSL
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

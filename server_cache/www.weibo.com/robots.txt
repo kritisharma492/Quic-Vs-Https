@@ -1,0 +1,35 @@
+HTTP/1.1 200 OK
+Server: WeiBo/LB
+Content-Type: text/html
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+DPOOL_HEADER: surtur66
+LB_HEADER: venus240
+Strict-Transport-Security: max-age=31536000; preload
+Expires: Mon, 03 Dec 2018 04:10:35 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 03 Dec 2018 04:10:35 GMT
+Content-Length: 351
+Connection: keep-alive
+Set-Cookie: YF-Ugrow-SEO-G0=8e667ee9394bfc84054b8fa626d4b0dc;Path=/
+
+Sitemap: http://weibo.com/sitemap.xml
+User-Agent: Baiduspider
+Disallow: 
+User-agent: 360Spider
+Disallow:
+User-agent: Googlebot
+Disallow:
+User-agent: Sogou web spider
+Disallow:
+User-agent: bingbot
+Disallow:
+User-agent: smspider
+Disallow:
+User-agent: HaosouSpider
+Disallow:
+User-agent: YisouSpider
+Disallow:
+User-agent: *
+Disallow: /

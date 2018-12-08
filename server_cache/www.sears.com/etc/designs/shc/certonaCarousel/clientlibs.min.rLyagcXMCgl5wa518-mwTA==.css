@@ -1,0 +1,94 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.15 (CentOS)
+Last-Modified: Wed, 03 Oct 2018 04:25:39 GMT
+Content-Type: text/css
+X-dynaTrace: PT=364874920;PA=262302102;SP=IRP;PS=1160330215
+X-XSS-Protection: 1
+Cache-Control: max-age=86400
+Expires: Fri, 07 Dec 2018 05:02:49 GMT
+Date: Thu, 06 Dec 2018 05:02:49 GMT
+Content-Length: 7617
+Connection: keep-alive
+s-srvr: ;akamai_cache
+
+#home .certonaCarousel{padding:10px 20px}
+.certonaCarousel{padding:0 43px}
+.certonaCarousel .secondary{color:#001733}
+.certonaCarousel h2:empty{display:none}
+.certonaCarousel .rating{font-family:'SHC Icons';letter-spacing:.175em;line-height:23px;width:100%}
+.certonaCarousel .message{color:white;background-color:#27ae60;padding:20px 30px}
+.certonaCarousel .slides button{width:50px;text-align:center;height:72px;border-color:#b2c3d9;border-width:0;border-style:solid;position:absolute;top:30%;font-family:'SHC Icons';z-index:5;background-color:#f1f1f1;border-radius:0 90px 90px 0;padding:0 7px 0 0;font-size:16px;outline:0}
+.certonaCarousel .slick-dots button{background:0;font-size:0}
+.certonaCarousel .slides button:hover{color:#005ccc}
+.certonaCarousel .slides button.slick-disabled{display:none!important}
+.certonaCarousel .slides button:first-child{left:0}
+.certonaCarousel .slides button:first-child ~ button{right:0;border-radius:90px 0 0 90px;padding-left:10px}
+.certonaCarousel .slick-slider{position:relative;display:block;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-khtml-user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:transparent}
+.certonaCarousel .slick-slide{box-sizing:inherit;height:auto;margin-bottom:40px}
+.certonaCarousel .slick-track{display:flex}
+.certonaCarousel .slides{box-sizing:border-box;width:100%;float:left;padding:0 0 0 20px}
+.certonaCarousel p.prices{color:#001733;margin-top:10px;min-height:44px;position:relative}
+.certonaCarousel .card{margin-bottom:50px;padding:14px 14px 7px 14px}
+.certonaCarousel .card .card-link:hover{text-decoration:none}
+.certonaCarousel .card .card-link:hover .description{text-decoration:underline;color:#005ccc}
+.certonaCarousel .card .image{width:163px;margin:auto;background-size:contain;background-repeat:no-repeat;background-position:center}
+.certonaCarousel .card .struck-price{text-decoration:line-through;font-weight:normal;color:#666;letter-spacing:-0.37px;line-height:10px}
+.certonaCarousel .card .current-price{line-height:19px;font-weight:bold}
+.certonaCarousel .card .description{min-height:53px;color:#001733;font-weight:normal;font-size:13px;line-height:17px;margin:5px 0;padding-bottom:10px}
+.certonaCarousel .card .star-rating{font-family:'SHC Icons';height:1.2em;font-size:15px}
+body.sears .certonaCarousel .card:hover{border-color:#005ccc}
+body.kmart .certonaCarousel .card:hover{border-color:#b10017}
+.certonaCarousel .card:hover{border-color:#005ccc;border-width:1px}
+.certonaCarousel .slick-dots{bottom:2px}
+.certonaCarousel .slick-dots li button:before{font-size:30px}
+.certonaCarousel .slick-dots li.slick-active button::before{color:#686868}
+.historyItem{border-bottom:0}
+.historyItem .intro{width:calc(100% - 40px);display:block;padding:0 20px 20px 20px}
+.historyItem .intro .certonaHeader{height:100px;max-width:100px;display:block;float:left;margin-top:4px}
+.historyItem .intro .introText{width:calc(100% - 20px);margin-bottom:14px;display:block;float:left;padding-left:10px}
+.historyItem .intro .introText a{text-decoration:none}
+.certonaCarousel .background-2 .historyItem h2{margin-left:0}
+.historyItem .intro p,.historyItem .intro h2{display:block;float:left;margin:0 0 14px 0;width:90%}
+.historyItem .intro p{font-family:'Open Sans';font-weight:600;font-size:17px}
+.historyItem .showHide{position:relative;height:30px;color:#000;display:block;float:left;width:100%;margin:0 0 20px -1px;text-align:center;line-height:30px;border-top:0;padding-bottom:20px}
+.historyItem hr{border:0;width:100%;margin:auto;margin-bottom:10px;background:#e3e3e3}
+.historyItem .showHide hr{width:calc(100% - 40px)}
+.historyItem .showHide span{display:block;width:200px;height:40px;margin:auto;font-weight:600;font-size:17px;cursor:pointer}
+.historyItem .open span{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJFJREFUeNqUUoENgCAMG+oDvKAn4Au8ojfhK76At/iAySwGE0QccUkzyNqyhREzkwRqTS/WK+IJ4JB/GyRilkzURc5CdeOE5OgdMx9+eXBzA0FcNGkq4g0YYr7DRd6zgw+xxWs7ahrnFTB5J5eBJE66K5rcIxhJHCLebTaOSb/NAR7Qld3Qkedee1ATl3inAAMA2dT/XHmIIoUAAAAASUVORK5CYII=);background-position:50px 10px;background-repeat:no-repeat}
+.historyItem .closed span{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJZJREFUeNqMksENgDAIRWl1Aa+u0Rlcpc5U5/DmDI7g2aMrWBIwXwONP/kHGh6F0kBdItFQfdE/PbkRDrbq8gPmG4/qzEEPcBKz5ga8CVO0A25lh6TsdIIwKRfhxqVRxIInLtBRHDVprR5hjCTx6cEcBNiCqugDGXrBuAXUdxwX9gpYRUxY10iNIpeMY8LeG7i/ztItwABzuCUtmUsvGAAAAABJRU5ErkJggg==);background-position:50px 10px;background-repeat:no-repeat}
+.historyItem .staticSlide .card{width:25%;float:left}
+.hide{transition:all 1s;overflow:hidden;height:0}
+.show{transition:all 1s;overflow:hidden;height:440px}
+.background-2{background:#eee;padding:30px 0;border-top:1px solid #ddd;border-bottom:1px solid #ddd;float:left;width:100%;min-width:980px}
+.certonaCarousel .background-2 h2{margin-left:20px}
+.background-2 .card{background:#fff;padding:14px;margin:0 20px 0 0;margin-bottom:50px}
+.tiny .card .image{width:80px;margin:auto;height:auto}
+.tiny .title-2{margin:0 0 5px 33px}
+.tiny .card p,.tiny .card .star-rating,.tiny .card .secondary{display:none}
+.certonaCarousel .tiny .slides button{top:15%}
+.certonaCarousel .slides.option1 p.prices{display:none}
+.certonaCarousel .slides.option1 div.ratings-review{display:none}
+.certonaCarousel .slides.option1 p.description{display:none}
+.certonaCarousel .slides.option2 div.ratings-review{display:none}
+.certonaCarousel .slides.option2 p.description{display:none}
+.certonaCarousel .slides.option3 p.prices{display:none}
+.certonaCarousel .slides.option3 div.ratings-review{display:none}
+.certonaCarousel .slides.option4 div.ratings-review{display:none}
+.certonaCarousel .more-slides button{width:50px;text-align:center;height:72px;border-color:#b2c3d9;border-width:0;border-style:solid;position:relative;font-family:'SHC Icons';z-index:10;background-color:#f1f1f1;border-radius:0 90px 90px 0;padding:0 7px 0 0;font-size:16px;outline:0}
+.certonaCarousel .more-slides .slick-dots button{background:0;font-size:0;margin-bottom:20px}
+.certonaCarousel .more-slides .slick-p{margin-top:8%;position:absolute}
+.certonaCarousel .more-slides .slick-n{margin-top:-20%}
+.certonaCarousel .more-slides button:hover{color:#005ccc}
+.certonaCarousel .more-slides button.slick-disabled{display:none!important}
+.certonaCarousel .more-slides button:first-child{left:0;float:left}
+.certonaCarousel .more-slides button:first-child ~ button{right:0;float:right;border-radius:90px 0 0 90px;padding-left:10px}
+.certonaCarousel .more-slides{box-sizing:border-box;width:100%;float:left;padding:0 0 0 20px}
+.certonaCarousel .more-like{text-align:center;text-decoration:none;position:absolute;bottom:-30px;width:100%}
+.certonaCarousel .secondary-more{color:#005ccc}
+.certonaCarousel .tiny .more-slides button{top:15%}
+#more-home1a_rr .background-2{background-color:#000;padding:0}
+#more-home1a_rr #more-pointer{border-bottom:solid 10px #000;border-left:solid 8px transparent;border-right:solid 8px transparent;position:absolute;width:0;height:0;margin-top:-10px;left:20px}
+#more-home1a_rr .layer-close{float:right;padding:10px;color:#fff;cursor:pointer}
+#more-home1a_rr .layer-close::after{content:"t";width:22px;height:22px;font-family:"SHC Icons"}
+#more-home1a_rr .more-slides .slick-dots li button:before{color:white}
+div.ratings-review{bottom:0;position:absolute;padding-bottom:5px}

@@ -1,0 +1,291 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain; charset=utf-8
+X-XSS-Protection: 0
+X-Frame-Options: DENY
+Expires: Tue, 04 Dec 2018 04:05:24 +0000
+Pragma: no-cache
+Strict-Transport-Security: max-age=15552000; preload
+Access-Control-Expose-Headers: X-FB-Debug, X-Loader-Length
+Access-Control-Allow-Credentials: true
+X-Content-Type-Options: nosniff
+Vary: Origin
+Vary: Accept-Encoding
+Cache-Control: private, no-cache, no-store, must-revalidate
+Access-Control-Allow-Origin: https://www.facebook.com
+Access-Control-Allow-Methods: OPTIONS
+X-FB-Debug: yETdz5LEqnnFHeaizVi4qYK2oZJRKR1eJnxmDpw8G0hIg/1n5DmUT9wbiTtLXN2RGOYVymND8MAOVfyAaqIQYA==
+Date: Mon, 03 Dec 2018 04:05:24 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+# Notice: Crawling Facebook is prohibited unless you have express written
+# permission. See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+
+User-agent: Applebot
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: baiduspider
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: Bingbot
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: Googlebot
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: ia_archiver
+Disallow: /
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: msnbot
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: Naverbot
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: seznambot
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: Slurp
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: teoma
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: Twitterbot
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: Yandex
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: Yeti
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /hashtag/
+Disallow: /l.php
+Disallow: /live/
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /sharer/
+
+User-agent: Applebot
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: baiduspider
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: Bingbot
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: Googlebot
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: ia_archiver
+Allow: /about/privacy
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /full_data_use_policy
+Allow: /legal/terms
+Allow: /policy.php
+Allow: /safetycheck/
+
+User-agent: msnbot
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: Naverbot
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: seznambot
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: Slurp
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: teoma
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: Twitterbot
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: Yandex
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: Yeti
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /safetycheck/
+
+User-agent: *
+Disallow: /
+

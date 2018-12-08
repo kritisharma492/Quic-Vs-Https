@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-Cache-Action: HIT
+Cache-Control: max-age=120
+X-Cache-Age: 110
+Content-Type: text/javascript
+Expires: Thu, 06 Dec 2018 09:29:07 GMT
+Etag: "903e69fe03d793dde26eaea3e317f2c3"
+X-LB-NoCache: true
+X-PAL-Host: pal818.back.live.lbh.local:80
+Accept-Ranges: bytes
+Content-Length: 61
+Accept-Ranges: bytes
+Date: Thu, 06 Dec 2018 09:28:56 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: keep-alive
+X-Fastly-Cache-Status: PASS
+X-Served-By: cache-ewr18134-EWR
+X-Cache: MISS
+X-Cache-Hits: 479, 0
+X-Timer: S1544088537.679367,VS0,VE75
+Vary: Accept-Encoding
+
+bbcdotcom.flag={a:1,s:1,o:1,d:1,l:1,asa:1,p:0,z:1,g:1,sh:1}

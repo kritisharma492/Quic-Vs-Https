@@ -1,0 +1,154 @@
+HTTP/1.1 200 OK
+X-EBAY-C-REQUEST-ID: ri=3fxPJMB%2BH%2Ffy,rci=jZ%2FJ%2BlflDznn1FHk
+RlogId: t6qjdhwv%3C%3Dsm%7Eulgisp%2842425%3F0%2Busqdrrp%2Bvo%7B%2Bceb%7C%28dlh-16781e49b68-0xe1
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Type: text/plain
+Server: ebay server
+Strict-Transport-Security: max-age=31536000
+Date: Thu, 06 Dec 2018 05:01:42 GMT
+Content-Length: 2910
+Connection: keep-alive
+Set-Cookie: ebay=%5Esbf%3D%23%5E;Domain=.ebay.com;Path=/ 
+Set-Cookie: dp1=bu1p/QEBfX0BAX19AQA**5de9e0b6^bl/USen-US5fcb1436^;Domain=.ebay.com;Expires=Sat, 05-Dec-2020 05:01:42 GMT;Path=/ 
+Set-Cookie: s=CgAD4ACBcCf62ODFlNDk4ZTkxNjcwYWJjNjZkNDFiMzhmZmZmYzIyOGXTjhIh;Domain=.ebay.com;Path=/; HttpOnly 
+Set-Cookie: nonsession=BAQAAAWd7qgEFAAaAADMABV3p4LYxMTc5MADLAAFcCLQ+MgDKACBlbq62ODFlNDk4ZTkxNjcwYWJjNjZkNDFiMzhmZmZmYzIyOGWayk1vCpJexcRmFKp1wJYQ/EVbgQ**;Domain=.ebay.com;Expires=Fri, 06-Dec-2019 05:01:42 GMT;Path=/ 
+
+### BEGIN FILE ###
+#
+# allow-all
+# DR
+#
+# The use of robots or other automated means to access the eBay site
+# without the express permission of eBay is strictly prohibited.
+# Notwithstanding the foregoing, eBay may permit automated access to
+# access certain eBay pages but soley for the limited purpose of
+# including content in publicly available search engines. Any other
+# use of robots or failure to obey the robots exclusion standards set
+# forth at <http://www.robotstxt.org/ wc/ exclusion.html> is strictly
+# prohibited.
+# v3
+#
+ 
+User-agent: *
+Disallow: /*rt=nc
+Disallow: /b/*LH_
+Disallow: /brw/
+Disallow: /clp/
+Disallow: /clt/store/
+Disallow: /csc/
+Disallow: /ctg/
+Disallow: /ctm/
+Disallow: /dsc/
+Disallow: /edc/
+Disallow: /feed/
+Disallow: /gsr/
+Disallow: /gwc/
+Disallow: /hcp/
+Disallow: /itc/
+Disallow: /lit/
+Disallow: /lst/ng/
+Disallow: /lvx/
+Disallow: /mbf/
+Disallow: /mla/
+Disallow: /mlt/
+Disallow: /myb/
+Disallow: /mys/
+Disallow: /prp/
+Disallow: /rcm/
+Disallow: /sch/*%7C
+Disallow: /sch/*LH_
+Disallow: /sch/aop/
+Disallow: /sch/ctg/
+Disallow: /sl/node
+Disallow: /sme/
+Disallow: /soc/
+Disallow: /talk/
+Disallow: /tickets/
+Disallow: /today/
+Disallow: /trylater/
+Disallow: /urw/write-review/
+Disallow: /vsp/
+Disallow: /ws/
+Disallow: /sch/*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /b/*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /itm/*_nkw
+Disallow: /itm/*?fits
+Disallow: /itm/*&fits
+Disallow: /cta/
+Disallow: /ico/
+Disallow: /signin/*
+ 
+User-agent: Googlebot
+Disallow: /sch/*bn_*?*_ul
+Disallow: /*rt=nc
+Disallow: /b/*LH_
+Disallow: /brw/
+Disallow: /clp/
+Disallow: /clt/store/
+Disallow: /csc/
+Disallow: /ctg/
+Disallow: /ctm/
+Disallow: /dsc/
+Disallow: /edc/
+Disallow: /feed/
+Disallow: /gsr/
+Disallow: /gwc/
+Disallow: /hcp/
+Disallow: /itc/
+Disallow: /lit/
+Disallow: /lst/ng/
+Disallow: /lvx/
+Disallow: /mbf/
+Disallow: /mla/
+Disallow: /mlt/
+Disallow: /myb/
+Disallow: /mys/
+Disallow: /prp/
+Disallow: /rcm/
+Disallow: /sch/*%7C
+Disallow: /sch/*LH_
+Disallow: /sch/aop/
+Disallow: /sch/ctg/
+Disallow: /sl/node
+Disallow: /sme/
+Disallow: /soc/
+Disallow: /talk/
+Disallow: /tickets/
+Disallow: /today/
+Disallow: /trylater/
+Disallow: /urw/write-review/
+Disallow: /vsp/
+Disallow: /ws/
+Disallow: /sch/*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /b/*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /itm/*_nkw
+Disallow: /itm/*?fits
+Disallow: /itm/*&fits
+Disallow: /cta/
+Disallow: /ico/
+Disallow: /signin/*
+
+# PRP Sitemaps
+Sitemap: https://www.ebay.com/lst/PRP-0-index.xml
+
+# BROWSE1 Sitemaps
+Sitemap: https://www.ebay.com/lst/BROWSE1-0-index.xml
+
+# BROWSE2 Sitemaps
+Sitemap: https://www.ebay.com/lst/BROWSE2-0-index.xml
+
+# BROWSE3 Sitemaps
+Sitemap: https://www.ebay.com/lst/BROWSE3-0-index.xml
+
+# VIS Sitemaps
+Sitemap: https://www.ebay.com/lst/VIS-0-index.xml
+
+# BHPS Sitemaps
+Sitemap: https://www.ebay.com/lst/BHPS-0-index.xml
+
+# NGS Sitemaps
+Sitemap: https://www.ebay.com/lst/NGS-0-index.xml
+
+### END FILE ###

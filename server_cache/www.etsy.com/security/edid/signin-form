@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-CLOUD-TRACE-CONTEXT: d76726696a4c0124a38895d6fcde6de6/2127579993875480145;o=0
+Strict-Transport-Security: max-age=631138520; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy-Report-Only: default-src * data:; script-src 'unsafe-inline' 'unsafe-eval' data: www.etsy.com https://*.etsystatic.com *.googletagmanager.com *.go-mpulse.net *.btstatic.com *.google-analytics.com *.netmng.com *.googleadservices.com *.facebook.net *.facebook.com *.google.com *.dwin1.com *.tumblr.com *.twitter.com *.steelhousemedia.com t.cxt.ms connexity.net *.gstatic.com *.answerscloud.com bam.nr-data.net g.3gl.net js-agent.newrelic.com *.qualtrics.com app.link *.branch.io *.mparticle.com cdn.ravenjs.com s.pinimg.com *.pinterest.com googleads.g.doubleclick.net web.btncdn.com cdn.ravenjs.com *.googleapis.com *.zdassets.com *.zopim.com *.cloudflare.com *.granify.com; style-src 'unsafe-inline' 'self' www.etsy.com; connect-src https://*.etsystatic.com *.mparticle.com *.qualtrics.com *.branch.io www.etsy.com wss://www.etsy.com api.pinterest.com *.zdassets.com *.zendesk.com wss://*.zopim.com wss://*.zendesk.com *.granify.com; report-uri /beacon/csp.php
+X-XSS-Protection: 1; mode=block; report=/beacon/csp.php
+X-Content-Type-Options: nosniff
+X-Recruiting: Is code your craft? https://www.etsy.com/careers
+Set-Cookie: fve=1544072539.0; expires=Sun, 05-Jan-2020 21:20:40 GMT; Max-Age=34186700; path=/; domain=.etsy.com; secure
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=UTF-8
+Via: 1.1 google
+x-fastly-backend-reqs: 881
+Accept-Ranges: bytes
+Age: 0
+Content-Length: 149
+Accept-Ranges: bytes
+Date: Thu, 06 Dec 2018 05:02:20 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: keep-alive
+X-Served-By: cache-ewr18140-EWR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1544072540.160744,VS0,VE84
+Vary: Accept-Encoding
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html><head></head><body></body></html>
